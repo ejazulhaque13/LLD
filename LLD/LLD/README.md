@@ -1,0 +1,2 @@
+# LLD
+practice code 
